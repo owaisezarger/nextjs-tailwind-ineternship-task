@@ -2,7 +2,7 @@ import React from "react";
 
 const Navbar = () => {
   return (
-    <nav className="flex px-10 py-6 m-2 bg-white border rounded-md border-gray-300">
+    <nav className="flex px-10 py-6 m-2 bg-white border sticky top-0 left-0 rounded-md border-gray-300">
       <div className="flex w-full justify-between">
         <div className="flex items-center">
           <svg

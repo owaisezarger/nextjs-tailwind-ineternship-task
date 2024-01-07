@@ -2,7 +2,7 @@ import React from "react";
 
 const Sales = () => {
   return (
-    <div className="flex flex-col sm:flex-row">
+    <div>
       <div className="sales flex justify-between gap-4 m-4 ">
         <div className="h-60 w-1/6 border  border-gray-300 rounded-md ">
           <div className="mt-5">
