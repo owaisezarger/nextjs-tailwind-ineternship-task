@@ -95,9 +95,9 @@ const Navbar = () => {
             </li>
             <li>
               <img
-                src="https://st3.depositphotos.com/9998432/13335/v/450/depositphotos_133351928-stock-illustration-default-placeholder-man-and-woman.jpg"
+                src="http://t3.gstatic.com/images?q=tbn:ANd9GcR7b-SkkslfIrAvGwgDDV35_Cryc7ew-KGm9nHILV7znD45IoN9P4f0XLYXKL_v0LQqYSFP"
                 alt="Avatar"
-                className="w-8 h-8 rounded-full"
+                className="w-8 h-8 rounded-full object-cover"
               />
             </li>
           </ul>

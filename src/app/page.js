@@ -10,7 +10,7 @@ export default function Home() {
           <Sidebar />
         </div>
 
-        <div className="w-4/5 bg-gray-50">
+        <div className="w-4/5">
           <Navbar />
           <CRM />
         </div>
